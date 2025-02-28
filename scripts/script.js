@@ -55,6 +55,5 @@ document.getElementById('order-action').addEventListener('click', function () {
 
         
         fields.forEach((field) => (field.value = ''));
-        fields.forEach((field) => (field.value = '')); 
     }
 });
